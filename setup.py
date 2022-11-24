@@ -8,7 +8,7 @@ import sys
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = "test_sum_package"
+NAME = "test_sum_pack"
 DESCRIPTION = "simple example of packaging code"
 URL = "https://github.com/MuthukumarSubramani/MuthuSub"
 EMAIL = ""
